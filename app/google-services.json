@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554718302930",
+    "firebase_url": "https://projectk-c896e.firebaseio.com",
+    "project_id": "projectk-c896e",
+    "storage_bucket": "projectk-c896e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554718302930:android:83d8c5dd0ba72296a4d30b",
+        "android_client_info": {
+          "package_name": "com.example.kadutry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554718302930-9o5d024hh7pkni4l6ilvokm8cl0hk0bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kadutry",
+            "certificate_hash": "c89c05903fc7432808d9feaaa63430e00e6cdcb4"
+          }
+        },
+        {
+          "client_id": "554718302930-pvjnfinhgnr0ttb4112544qdtqj0f740.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNs1H7uQvVfr4yKz1lF0EWBq_l9GdqAPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554718302930-pvjnfinhgnr0ttb4112544qdtqj0f740.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
